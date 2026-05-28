@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv --version)",
+      "Bash(uv init *)",
+      "Bash(uv venv *)",
+      "Bash(uv sync *)",
+      "Bash(uv export *)",
+      "Bash(uv add *)",
+      "Bash(uv run *)",
+      "Bash(python -c ' *)",
+      "Bash(Get-ChildItem d:\\\\newprojlang -MaxDepth 1 -Filter \"*.py\")",
+      "Bash(Select-Object Name)",
+      "Bash(.venv/Scripts/python -c ' *)",
+      "Bash(pip show *)",
+      "Bash(pip install *)",
+      "Bash(python -c \"from tavily import TavilyClient; print\\('ok'\\)\")",
+      "PowerShell(pip install tavily-python 2>&1)",
+      "PowerShell(python -m pip install tavily-python; Write-Host \"Exit: $LASTEXITCODE\")",
+      "PowerShell(python -m pip install pytrends 2>&1)",
+      "PowerShell(python -c \"from pytrends.request import TrendReq; print\\('pytrends ok'\\)\")"
+    ]
+  }
+}

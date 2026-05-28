@@ -1,0 +1,80 @@
+{
+  "AAPL": [
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Buy",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Buy\n\n**Executive Summary:**\nWe are recommending an investment in Apple (AAPL) based on its strong fundamentals, growing market share, and relatively low valuation multiples compared to the industry average. We expect AAPL's price to appreciate by around 10% within the next 12 months, reaching our target price of $230.\n\n**Investment Thesis:**\nStrong fundamentals, innovative products, and growing market share outweigh concerns over valuation and debt levels.\n\n**Price Target:** 230.0\n\n**Time Horizon:** 12 months\n\n**Key Risk Factors:**\nHigh valuations, potential disruption from competitors, economic downturn leading to increased borrowing costs and revenue declines",
+      "stored_at": "2026-05-26T16:54:24.884447"
+    }
+  ],
+  "105758": [
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Buy",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Buy\n\n**Executive Summary:**\nWe are investing in mutual fund **105758** with a buy rating, targeting a 12-month price of \u221e 1,050. The investment thesis focuses on the fund's growth potential and improvement in management decisions.\n\n**Investment Thesis:**\nThe bull's arguments were stronger and more data-backed than the bear's, supporting the idea that the mutual fund will perform well in the coming months.\n\n**Price Target:** 1050.0\n\n**Time Horizon:** One year\n\n**Key Risk Factors:**\n1. Market volatility: Any unexpected changes in market conditions could impact the fund's performance. \n2. Management decisions: If the fund manager makes poor investment choices, it may negatively affect the fund's growth.\n3. Economic downturn: A decline in economic growth could lead to reduced demand for the fund's underlying assets.",
+      "stored_at": "2026-05-26T17:04:13.666871"
+    }
+  ],
+  "SBIN.NS": [
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Sell",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Sell\n\n**Executive Summary:**\nWe are recommending a Sell rating for SBIN.NS, with a position size of 6% of the portfolio, due to concerns about the company's lack of transparency in financial health and deteriorating profitability metrics. The technical indicators suggest a potential breakdown below the current support level of 950, and we are setting a stop loss at 920 to limit potential losses. Our investment thesis is based on the bear's arguments, which outweigh the bull's arguments, and we are targeting a 12-month price target of 800.\n\n**Investment Thesis:**\nThe bear's arguments about the company's lack of transparency in financial health and deteriorating profitability metrics outweigh the bull's arguments, and the technical indicators suggest a potential breakdown below the current support level of 950.\n\n**Price Target:** 800.0\n\n**Time Horizon:** 12 months\n\n**Key Risk Factors:**\nLack of transparency in financial health, deteriorating profitability metrics, and potential breakdown below the current support level of 950.",
+      "stored_at": "2026-05-26T17:10:27.303356"
+    },
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Buy",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Buy\n\n**Executive Summary:**\nWe are recommending a 3.25% position size in SBIN.NS with an initial target price of \u20b91,260 (3-4% above current market price) and a stop loss at 10% below entry price. This balanced approach aims to capture significant upside potential while mitigating potential losses.\n\n**Investment Thesis:**\nSBIN.NS has strong technical indicators and solid fundamentals, justifying a long position with a target price of \u20b91,260 within the next 12-18 months.\n\n**Price Target:** 1260.0\n\n**Time Horizon:** Recommended time horizon for this investment is 12-18 months, aligned with the target price of \u20b91,260.\n\n**Key Risk Factors:**\nThe top 2-3 risk factors that could invalidate this thesis are: (1) unexpected economic downturns affecting loan defaults, (2) regulatory changes impacting banking industry operations, and (3) significant market volatility leading to increased trading losses.",
+      "stored_at": "2026-05-26T17:14:31.274167"
+    }
+  ],
+  "HDFCBANK.NS": [
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Hold",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Hold\n\n**Executive Summary:**\nHDFCBANK.NS presents a mixed investment opportunity with strong fundamentals but also cautionary comments from the Research Manager.\n\n**Investment Thesis:**\nThe neutral balanced approach offers the most well-rounded strategy, allocating 3.2% of our portfolio to HDFCBANK.NS and maintaining this allocation until the next risk review.\n\n**Time Horizon:** Medium-term investment\n\n**Key Risk Factors:**\nMarket volatility, potential for asset quality issues if not managed effectively",
+      "stored_at": "2026-05-26T17:22:42.718385"
+    }
+  ],
+  "TSLA": [
+    {
+      "trade_date": "2026-05-22",
+      "rating": "Overweight",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Overweight\n\n**Executive Summary:**\nWe are overweighting TSLA due to its strong revenue growth, improving profitability, and robust financial health. We expect the company to capture significant market share gains in the electric vehicle (EV) space, driven by increasing demand for EVs and expanding production capacity.\n\n**Investment Thesis:**\nTSLA's unique value proposition, innovative products, and growing demand for EVs will drive its growth and profitability expansion, outweighing concerns about market saturation and competition from BYD.",
+      "stored_at": "2026-05-26T17:28:34.706338"
+    }
+  ],
+  "SNDK": [
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Sell",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Sell\n\n**Executive Summary:**\nWe recommend selling 5% of the existing holding in SNDK, targeting a 8% reduction in exposure.\n\n**Investment Thesis:**\nThe investment thesis is based on the undervaluation opportunity presented by SNDK's P/E ratio being below its 5-year average. Our long-term model indicates strong fundamentals with improving revenue growth and margins. However, we acknowledge the importance of tail risks associated with SNDK's industry and company-specific headwinds.\n\n**Time Horizon:** Our time horizon for this investment is 6-12 months, during which we expect to capture some upside potential while managing the associated risks effectively.\n\n**Key Risk Factors:**\nThe primary risk factors are the ongoing challenges in the NAND market, which could impact SNDK's performance. Additionally, there is a possibility that the bearish case may prevail in the long term, leading to further declines in the stock price.",
+      "stored_at": "2026-05-26T17:51:01.254140"
+    }
+  ],
+  "NVDA": [
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Buy",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Buy\n\n**Executive Summary:**\nWe are investing in NVDA with a target price of $220 due to its dominant market position, innovative leadership, and robust financials. We believe that this investment will generate strong returns over the next 12 months.\n\n**Investment Thesis:**\nNVDA's dominant market position, innovative leadership, and robust financials make it an attractive investment opportunity.\n\n**Price Target:** 220.0\n\n**Time Horizon:** 12 months\n\n**Key Risk Factors:**\n1. Market volatility: NVDA's stock price can be affected by short-term market fluctuations. 2. Competition from emerging AI computing technologies: The company may face increased competition from new entrants in the AI computing market. 3. Regulatory risks: Changes in regulations or laws governing the tech industry could negatively impact NVDA's business.",
+      "stored_at": "2026-05-26T17:54:56.341008"
+    }
+  ],
+  "145971": [
+    {
+      "trade_date": "2026-05-26",
+      "rating": "Overweight",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Overweight\n\n**Executive Summary:**\nWe are recommending an overweight position in **145971** at a price level between $50-$60 per share, targeting a price of $65 within 6-12 months. Key catalysts include the IMF's revised forecast for global economic growth and Federal Reserve interest rate decisions.\n\n**Investment Thesis:**\nThe mutual fund has shown robust bullish data points, with potential upside driven by positive economic growth forecast and interest rate decisions in favor.",
+      "stored_at": "2026-05-26T18:01:35.913589"
+    }
+  ],
+  "ICICIBANK.NS": [
+    {
+      "trade_date": "2026-05-27",
+      "rating": "Buy",
+      "final_decision": "## Final Portfolio Decision\n\n**Rating:** Buy\n\n**Executive Summary:**\nBased on the research plan, we believe ICICIBANK.NS is a strong investment opportunity with a Buy rating and a target price of 1800. We recommend a moderate position size of 9% of the portfolio, entering the trade when the stock has pulled back by 3-5% from its current price level, and holding the position for at least 6-8 months. \n\n**Investment Thesis:**\nICICIBANK.NS has strong fundamentals, a catalyst-rich news environment, and a strong analyst consensus, making it a Buy opportunity.\n\n**Price Target:** 1800.0\n\n**Time Horizon:** 6-8 months\n\n**Key Risk Factors:**\ndebt levels, dependence on external parties, and optimistic analyst estimates",
+      "stored_at": "2026-05-27T03:00:46.813861"
+    }
+  ]
+}
